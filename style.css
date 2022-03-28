@@ -1,0 +1,29 @@
+#facts {
+    transform: translate(-50%, 0);
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+}
+
+#text {
+    overflow: hidden;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+
+    width: 300px;
+    height: 300px;
+
+    border: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+
+    border-radius: 0.2em
+}
+
+#random {
+    position: fixed;
+    left: calc(50% + 1em);
+    top: calc(50% + 4em);
+}
