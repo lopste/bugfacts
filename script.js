@@ -1,7 +1,7 @@
 let text = document.querySelector("#text");
 let randomButton = document.querySelector("#random");
 let facts = [
-    "Z",
+    "one day you will have to answer for your actions and god will not be so forgiving",
     "why do i always wish i were somewhere else why ca'nt i just be happy where i am",
     "I can see you.",
     "I'm inside your house.",
